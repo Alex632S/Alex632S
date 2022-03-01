@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233938F7&size=25&lines=Hello!+Welcome+to+the+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233938F7&size=25&lines=Welcome+to+the+page!)](https://git.io/typing-svg)
 
 ![Alexandr's GitHub Banner](images/banner.jpg)
 
